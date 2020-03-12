@@ -13,6 +13,7 @@ password = 'your password'
 
 Done!
 
+P.S This is a fix for some non-working stealer
 
 Attention!
 Provided for informational purposes only. Live by the law and do no harm to anyone :)
@@ -36,6 +37,8 @@ reciever = 'receiver@gmail.com'
 пароль = «ваш пароль»
 
 Готово!
+
+P.S Это фикс какого-то не рабочего стиллера.
 
 Внимание!
 Предоставлено только в ознакомительных целях. Живите по закону и никому не вредите :)
