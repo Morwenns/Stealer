@@ -10,7 +10,7 @@ sender = ''
 reciever = ''
 password = ''
 # Dont change this
-marker = "Morwy"
+marker = "1"
 
 
 def wifipass():
